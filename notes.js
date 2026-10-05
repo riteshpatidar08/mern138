@@ -19,3 +19,5 @@
 
 //git add . 
 // files ko staging area main add kreti hain
+
+//staging area
