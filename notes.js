@@ -21,3 +21,9 @@
 // files ko staging area main add kreti hain
 
 //staging area
+
+// git init 
+// git add .
+// git commit -m 'initital commit'
+// git remote  add origin  remoteURL 
+// git push origin master
