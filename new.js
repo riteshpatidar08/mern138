@@ -45,3 +45,7 @@
 
 // connect this with local 
 // git remote add origin https://github.com/riteshpatidar08/mern138.git
+
+// git push --set-upstream origin master
+
+// git push 
